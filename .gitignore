@@ -1,0 +1,5 @@
+#忽略index.css文件
+index.css
+
+#忽略hello下的.txt文件
+hello/**.txt
